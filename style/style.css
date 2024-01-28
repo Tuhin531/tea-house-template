@@ -1,22 +1,15 @@
+
 .banner-heading {
-    /* width: 600px; */
     color: var(--Dark-01, #1C1C1C);
-    font-feature-settings: 'clig' off, 'liga' off;
-    font-family: Manrope;
-    /* font-size: 80px; */
-    font-style: normal;
-    /* font-weight: 800;
-    line-height: 100px; */
 
 }
 
 .banner-description {
-    /* width: 513px; */
+  
     color: var(--Dark-03, #777);
-    font-feature-settings: 'clig' off, 'liga' off;
-    font-family: Manrope;
-    font-size: 18px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: 30px;
 }
+.description{
+    color: var(--Dark-03, #777);
+    font-size: 14px;
+}
+
