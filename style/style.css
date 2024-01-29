@@ -12,4 +12,10 @@
     color: var(--Dark-03, #777);
     font-size: 14px;
 }
+.fa-angle-right{
+    padding-left: 100px;
+    color:green;
+    
+   
 
+}
